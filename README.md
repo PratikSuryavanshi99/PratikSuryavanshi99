@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Pratik Suryavanshi (@PratikSuryavanshi99)
 - 👀 I’m interested in designing & developing an application
 - 📖 I’ve completed my masters degree from K. J. Somaiya Institute of Management in 2022 with degree in MCA.
-- 🌱 I'm currently a Junior Software Engineer at RippleHire.
+- 🌱 I'm currently a Software Engineer at RippleHire.
 - 📫 How to reach me - pratikssuryavanshi99@gmail.com / pratik.s@ripplehire.com
 
 <!---
